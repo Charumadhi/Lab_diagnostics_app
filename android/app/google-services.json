@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809292564596",
+    "project_id": "labdiagnosticsapp",
+    "storage_bucket": "labdiagnosticsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809292564596:android:350412114f8c577aed6921",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjpOw0xBoVQt56q6sU6Jo8M5oAYk_U9iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
