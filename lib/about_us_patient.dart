@@ -50,7 +50,7 @@ class AboutUsPage extends StatelessWidget {
                   ),
                   SizedBox(height: 15.0),
                   Text(
-                    'DiagnoCare is a leading healthcare platform dedicated to providing cost-effective, '
+                    'DiagnoCare is a healthcare platform dedicated to providing cost-effective, '
                         'remote-enabled diagnostic services. Based in Chennai, DiagnoCare connects '
                         'patients with over 250 accredited diagnostic labs across India. Our state-of-the-art platform, '
                         'powered by advanced data science and AI tools, offers access to a wide range of '
